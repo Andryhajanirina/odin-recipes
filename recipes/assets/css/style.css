@@ -1,5 +1,5 @@
 :root{
-    --main-body-color: gray;
+    --main-body-color: gray !important;
 }
 
 body{
